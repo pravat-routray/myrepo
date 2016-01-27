@@ -5,5 +5,6 @@ printf("Hello world");
 printf("Hello Tuna");
 print("Kai hauni");
 printf("Denis Rich");
+printf("This is a testing msg");
 }
 
